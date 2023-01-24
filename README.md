@@ -19,39 +19,40 @@
 
 
 # 참여 작품(1인 개발 작품)
-goobeat - 2012 [link](https://github.com/ingerking/goobeat)     
+###1. goobeat### - 2012 [link](https://github.com/ingerking/goobeat) 
+채보를 자동으로 생성하는 리듬 게임 (사용 언어: C++/DirectX9)     
   
 
 ![goobeat](./img/goobeat.png)
 
+     
 
-채보를 자동으로 생성하는 리듬 게임 (사용 언어: C++/DirectX9)      
-
-Jako - 2014 [link](https://github.com/ingerking/jako)     
+###2. Jako### - 2014 [link](https://github.com/ingerking/jako)   
+2D 보스 러시 슈팅 게임 (사용 언어: C++/DirectX9)  
   
 
 ![jako](./img/jako.png)
 
+       
 
-2D 보스 러시 슈팅 게임 (사용 언어: C++/DirectX9)       
-
-charmugen - 2015 [link](https://github.com/ingerking/charmugen)      
+###3. charmugen### - 2015 [link](https://github.com/ingerking/charmugen)    
+2D 대전 격투 게임 (사용 언어: C++/DirectX9)      
   
 
 ![charmugen](./img/charmugen.png)
 
+     
 
-2D 대전 격투 게임 (사용 언어: C++/DirectX9)       
-
-Dodge And Shooting - 2016 [link](https://github.com/ingerking/DAS)      
+###4. Dodge And Shooting### - 2016 [link](https://github.com/ingerking/DAS)      
+2인용 2D 종스크롤 대전 슈팅게임 (사용 언어: C++/DirectX9) 
   
 
 ![das](./img/das.png)
 
+    
 
-2인용 2D 종스크롤 대전 슈팅게임 (사용 언어: C++/DirectX9)     
-
-keykanon - 2017 [link1](https://github.com/oopartians/keykanon) [link2](https://github.com/ingerking/keykanon_back)    
+###5. keykanon### - 2017 [link1](https://github.com/oopartians/keykanon) [link2](https://github.com/ingerking/keykanon_back)    
+Sakura Script Transfer Protocol을 사용하는 winamp 가사 재생 플러그인 (사용 언어: C++)   
 
 ![keykanon](./img/keykanon.png)
 
